@@ -1,0 +1,8 @@
+title: Lancerpilgrim.GitHub.io
+description: 我所寻找的秘密深藏在一条长满橄榄树的山谷里，在草下，在冰冷的堇下，一幢古旧的、散发着葡萄嫩枝气味的房屋周围。
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
