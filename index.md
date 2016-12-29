@@ -14,4 +14,4 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Index
-Test: (https://lancerpilgrim.github.io/TEST.md)
+Test: (https://lancerpilgrim.github.io/TEST)
